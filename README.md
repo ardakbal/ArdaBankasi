@@ -1,13 +1,13 @@
 # ArdaBankasi
 Daha önce yüklediğim banka uygulamasının daha geliştirilmiş hali.
 Bu uygulamada öncekinden farklı olarak:
-1 - String hataları giderildi
-2 - Özel karakter hataları giderildi
-3 - "Hesap bakiyesi görüntüle" menüsü kaldırıldı
-4 - Kullanıcı adı ve şifreyle oturum açma menüsü getirildi
-5 - Yeni hesap oluşturma seçeneği eklendi
-6 - Havale sistemi getirildi
-7 - Bankacılık işlemleri, fonksiyon haline getirildi
+1. String hataları giderildi
+2. Özel karakter hataları giderildi
+3. "Hesap bakiyesi görüntüle" menüsü kaldırıldı
+4. Kullanıcı adı ve şifreyle oturum açma menüsü getirildi
+5. Yeni hesap oluşturma seçeneği eklendi
+6. Havale sistemi getirildi
+7. Bankacılık işlemleri, fonksiyon haline getirildi
 
 Kodu çalıştırdığınızda hali hazırda mevcut olan 4 kullanıcı vardır.
 Bu kullanıcılar;
